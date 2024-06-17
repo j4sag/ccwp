@@ -1,10 +1,10 @@
 ### Hello there!
 
-Welcome to this repository. This is a repo where I upload my C implementations
+Welcome to this repository. This repo is where I upload my C and/or Kotlin(cli compiled) implementations
 of the Python programs in Cracking Codes With Python (https://inventwithpython.com/cracking/).
 
-I'm not a C professional by any means (I'm actually try to learn C through this), and my codes uploaded here are not meant to be taken seriously.
+I'm not a C or Kotlin professional by any means, and my codes uploaded here are not meant to be taken seriously.
 
-After all, this is...
+Because at the end of the day, this is all...
 
 -- Just 4 S#!+$ And Giggles
